@@ -1,4 +1,4 @@
-### Salut, je m'apelle Eliott 👋
+### Salut, je m'apelle Eliott 
 
 <!--Start Intro-->               
 <p align="left">Je suis un étudiant en ingénierie numérique. Je souhaite évoluer dans le domaine de la cubersécurité !</p>
