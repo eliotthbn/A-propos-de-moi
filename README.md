@@ -11,7 +11,7 @@
 <!--Languages and Tools Section-->       
 ## <h2 align="center">HARDSKILL</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=anaconda,angular,arduino,bash,bitbucket,bootstarc,css,debian,docker,figma,github,html,js,kali,linux,Matlab,MongoDB,MySQL,nestjs,nodejs,npm,php,postman,powershell,py,rasberrypi,react,redhat,sequelize,Symfony,ts,vscode&perline=11"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=anaconda,angular,arduino,bash,bitbucket,bootstrap,css,debian,docker,figma,github,html,js,kali,linux,matlab,mongodb,mysqlL,nestjs,nodejs,npm,php,postman,powershell,py,raspberrypi,react,redhat,sequelize,symfony,ts,vscode&perline=11"  />
 </p>
 <br />
 
@@ -26,6 +26,5 @@
 <a href="mailto:eliott.habanski@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=qleveque21@gmail.com mail style="margin-bottom: 5px;" />
 </a>
--->
 </div>
 <br/>
