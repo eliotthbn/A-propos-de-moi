@@ -3,8 +3,8 @@
 <!--Start Intro-->               
 <p align="left">Je suis un étudiant en ingénierie numérique. Je souhaite évoluer dans le domaine de la cubersécurité !</p>
 
-- Every day offers a chance to learn, and I'm taking full advantage by exploring diverse subjects.
-- Here to grow and thrive.
+- Un hacker est un passionné de technologie, quelqu'un qui aime en comprendre le fonctionnement, ne pas être piégé, la faire mieux fonctionner, au contraire - Julien Assange
+- Ici pour apprendre dans le domaine de l'informatique et plus particulièrement de la cybersécurité
 - Télécharge mon <a href="./CV.pdf" target="_blank">CV</a> pour plus d'informations sur moi.
 <!--End Intro-->
 
