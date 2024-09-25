@@ -11,7 +11,7 @@
 <!--Languages and Tools Section-->       
 ## <h2 align="center">HARDSKILL</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=anaconda,angular,arduino,bash,bitbucket,bootstrap,css,debian,docker,figma,github,html,js,kali,linux,matlab,mongodb,mysqlL,nestjs,nodejs,npm,php,postman,powershell,py,raspberrypi,react,redhat,sequelize,symfony,ts,vscode&perline=11"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=anaconda,angular,arduino,bash,bitbucket,bootstrap,css,debian,discord,docker,figma,github,html,js,kali,linux,matlab,mongodb,mysql,nestjs,nodejs,npm,php,postman,powershell,py,raspberrypi,react,redhat,sequelize,symfony,ts,vscode&perline=11"  />
 </p>
 <br />
 
